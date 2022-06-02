@@ -1,0 +1,21 @@
+.app .createBtn{
+  display: block;
+  margin: 100px auto;
+  height: 40px;
+  width: 150px;
+  text-align: center;
+  font-size: 14px;
+}
+.walletInfo{
+  width: 800px;
+  margin: 100px auto;
+  border: 1px solid #cccccc;
+  padding: 20px;
+}
+.btns{
+  display: flex;
+  align-items: center;
+}
+.btns button{
+  margin-right: 20px;
+}
